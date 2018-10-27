@@ -13,3 +13,6 @@ The Official GitHub Repository of ImageAI is https://github.com/OlafenwaMoses/Im
 
 **You need to download RETINANET MODEL FILE (145 mb)**
 ~ Download the RetinaNet model file that will be used for object detection via this [link](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5).
+
+
+PS: This project was done to get familiar with the ImageAI librabry. I used this [blog](https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606) for reference. To get more Ideas you need to explore more through official documentations. 

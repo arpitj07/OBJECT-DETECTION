@@ -5,6 +5,9 @@ ImageAI is a python library built to empower developers, reseachers and students
 
 you can read the official documentation for **ImageAI** [here](https://imageai.readthedocs.io/en/latest/)
 
+**Installing ImageAI**
+
+`pip3 install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl `
 
 The Official GitHub Repository of ImageAI is https://github.com/OlafenwaMoses/ImageAI.
 

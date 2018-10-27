@@ -1,6 +1,10 @@
 # OBJECT DETECTION USING ImageAI
 
-ImageAI is a python library built to empower developers, reseachers and students to build applications and systems with self-contained Deep Learning and Computer Vision capabilities using simple and few lines of code. This documentation is provided to provide detailed insight into all the classes and functions available in ImageAI, coupled with a number of code examples. ImageAI is a project developed by Moses Olafenwa and John Olafenwa , the AI Commons team. 
+
+[![](https://sourcerer.io/fame/arpitj07/arpitj07/OBJECT-DETECTION/images/0)](https://sourcerer.io/fame/arpitj07/arpitj07/OBJECT-DETECTION/links/0)[![](https://sourcerer.io/fame/arpitj07/arpitj07/OBJECT-DETECTION/images/1)](https://sourcerer.io/fame/arpitj07/arpitj07/OBJECT-DETECTION/links/1)[![](https://sourcerer.io/fame/arpitj07/arpitj07/OBJECT-DETECTION/images/2)](https://sourcerer.io/fame/arpitj07/arpitj07/OBJECT-DETECTION/links/2)[![](https://sourcerer.io/fame/arpitj07/arpitj07/OBJECT-DETECTION/images/3)](https://sourcerer.io/fame/arpitj07/arpitj07/OBJECT-DETECTION/links/3)[![](https://sourcerer.io/fame/arpitj07/arpitj07/OBJECT-DETECTION/images/4)](https://sourcerer.io/fame/arpitj07/arpitj07/OBJECT-DETECTION/links/4)[![](https://sourcerer.io/fame/arpitj07/arpitj07/OBJECT-DETECTION/images/5)](https://sourcerer.io/fame/arpitj07/arpitj07/OBJECT-DETECTION/links/5)[![](https://sourcerer.io/fame/arpitj07/arpitj07/OBJECT-DETECTION/images/6)](https://sourcerer.io/fame/arpitj07/arpitj07/OBJECT-DETECTION/links/6)[![](https://sourcerer.io/fame/arpitj07/arpitj07/OBJECT-DETECTION/images/7)](https://sourcerer.io/fame/arpitj07/arpitj07/OBJECT-DETECTION/links/7)
+
+
+**ImageAI** is a python library built to empower developers, reseachers and students to build applications and systems with self-contained Deep Learning and Computer Vision capabilities using simple and few lines of code. This documentation is provided to provide detailed insight into all the classes and functions available in ImageAI, coupled with a number of code examples. ImageAI is a project developed by Moses Olafenwa and John Olafenwa , the AI Commons team. 
 
 
 you can read the official documentation for **ImageAI** [here](https://imageai.readthedocs.io/en/latest/)

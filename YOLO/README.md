@@ -13,4 +13,8 @@
 
 - [Yolo Loss function explanation](https://stats.stackexchange.com/questions/287486/yolo-loss-function-explanation)
 
+- [Review: YOLOv2 & YOLO9000 — You Only Look Once (Object Detection)](https://towardsdatascience.com/review-yolov2-yolo9000-you-only-look-once-object-detection-7883d2b02a65)
+
+- [**k-means clustering for anchor boxes**](https://lars76.github.io/object-detection/k-means-anchor-boxes/)
+
 - []()

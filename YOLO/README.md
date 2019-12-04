@@ -7,7 +7,8 @@
 [HERE](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 
 
-
+## Data Preparation
+[CUSTOM DATASET](https://www.arunponnusamy.com/preparing-custom-dataset-for-training-yolo-object-detector.html)
 
 
 
